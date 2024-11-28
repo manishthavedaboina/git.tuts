@@ -1,0 +1,1 @@
+print ( " manish  +_ entri  courswe")
